@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1078689557432",
+    "firebase_url": "https://monitor-system-54790.firebaseio.com",
+    "project_id": "monitor-system-54790",
+    "storage_bucket": "monitor-system-54790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078689557432:android:aae95527770006b6",
+        "android_client_info": {
+          "package_name": "nectec.intern.monitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078689557432-dl3go2gheh5tpmgr3k119v4b4h3c82bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcQ7wO5mhjSUJG1KUQ4MUJ6sRGAa5-ohc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
