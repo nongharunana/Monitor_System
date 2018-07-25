@@ -8,7 +8,7 @@ $(document).ready(function() {
                 fontFamily: 'Unica One'
             }
         },
-        colors: ['#FDD692', '#EC7357', '#06D6A0', '#9CAFB7', '#B97375', '#F1E4E8', '#D8CC34', '#EF476F', '#F1A208', '#118AB2', '#922D50', '#DB7F67'],
+        colors: ['#FDD692', '#EC7357', '#06D6A0', '#9CAFB7', '#B97375', '#F1E4E8', '#D8CC34', '#EF476F', '#F1A208', '#118AB2', '#922D50', '#574D68'],
         title: {
             text: ' ',
             style: {
@@ -19,12 +19,12 @@ $(document).ready(function() {
         },
         yAxis: {
             title: {
-                text: 'POW(Watt)',
+                text: 'App_E(Volt-Ampere)',
                 style: {
                     color: '#D9E5D6',
                     fontWeight: 'normal',
                     fontFamily: 'Unica One',
-                    fontSize: '15pt'
+                    fontSize: '11pt'
                 }
             },
             labels: {
